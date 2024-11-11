@@ -1,6 +1,7 @@
 .body{
     height: 100vh;
     background: linear-gradient(#2A00B7, #4200B7);
+    display: flex;
 }
 
 
@@ -11,7 +12,6 @@
     align-items: center;
     background-color: white;
     margin: auto;
-    margin-top: 5rem;
     padding: 2rem 0;
     width: 600px;
 }
